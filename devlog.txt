@@ -1,0 +1,4 @@
+- brainstorm email template
+- rough sketch of an email template
+- started first draft of template
+- had a code review and tried to improve the final draft of the project
